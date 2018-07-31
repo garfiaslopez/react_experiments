@@ -1,4 +1,5 @@
 .house {
+  position: relative;
   width: 700px;
   height: 400px;
   background: url('/house.jpg') no-repeat;
